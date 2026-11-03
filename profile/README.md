@@ -19,7 +19,7 @@ A plus point would be if you're good at just larping by sharing every **blog** /
 </p>
 
 <p align="center">
-  <a href="https://webring.chaldea.moe/api/random">visit a random member of the webring</a>
+  <a href="http://larpring.com/">Frontier ML Folks Webring</a>
 </p>
 
 <br>
